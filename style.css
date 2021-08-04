@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	text-align: center;
+	font-size: 150%;
+	font-family: 'Old Standard TT', serif;;
+
+}
+
+h1{
+	
+	margin:  0 auto;
+	font-family: 'Sacramento', cursive;
+	font-size: 5rem;
+	color:  #66BFBF;
+}
+
+h2 {
+	color:  #66BFBF;
+}
+
+h3, a {
+	color: #11999E;
+}
+
+.para {
+	font-family: 'Special Elite', cursive
+	weight: normal;
+	line-height: 2;
+}
+
+
+
+div {
+	background-color:#DEEDF0 ;
+/*	padding-right: 10px;
+	padding-left: 20px*/
+	margin: 10px;
+	padding: 10px;
+}
+
+.top-container {
+	padding-top: 100px;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto;
+	text-align: left;
+}
+
+.bottom-cloud {
+	position: absolute;
+}
+
+.top-cloud {
+	position: relative;
+	left:  200px;
+}
+
+
